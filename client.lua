@@ -1,1 +1,0 @@
--- Client-side logic for qb_construction
